@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Foggy B
+  m_Controller: {fileID: 8280209182476038552, guid: 7c93502c4caf43e4eb5088c1755aef94, type: 3}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 7c93502c4caf43e4eb5088c1755aef94, type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: ce8408e2b9da2574b861099e7fe14ae0, type: 3}
+  - m_OriginalClip: {fileID: 2667949614841947897, guid: 7c93502c4caf43e4eb5088c1755aef94, type: 3}
+    m_OverrideClip: {fileID: 2667949614841947897, guid: ce8408e2b9da2574b861099e7fe14ae0, type: 3}
